@@ -1,0 +1,47 @@
+﻿body {
+}
+
+.main-container label, button{
+    display:block;
+}
+
+.main-container {
+    background: #FFF7D9;
+    padding: 20px 50px 20px 50px;
+    width: 700px;
+    margin-bottom: 60px;
+}
+
+.main-container-info {
+    background: linear-gradient(to bottom, #FFF7D9, #6AD3F3);
+    padding: 20px;
+    width: 100%;
+}
+
+button {
+    background: linear-gradient(to right, #00BF63 35%, #FF3131 100%);
+    border: 0;
+    border-radius: 8px;
+    width: 100%;
+}
+
+button:hover {
+    background: white;
+    font-weight: bold;
+    border: 1px solid transparent;
+    border-image: linear-gradient(#00BF63, #FF3131) 1;
+}
+
+table{
+    background: white;
+    width: 100%;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 5px;
+}
+
+a{
+    text-decoration: none;
+}

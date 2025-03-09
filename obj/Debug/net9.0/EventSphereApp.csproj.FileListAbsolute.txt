@@ -1,0 +1,209 @@
+D:\Codes\EventSphereApp\bin\Debug\net9.0\appsettings.Development.json
+D:\Codes\EventSphereApp\bin\Debug\net9.0\appsettings.json
+D:\Codes\EventSphereApp\bin\Debug\net9.0\EventSphereApp.staticwebassets.runtime.json
+D:\Codes\EventSphereApp\bin\Debug\net9.0\EventSphereApp.staticwebassets.endpoints.json
+D:\Codes\EventSphereApp\bin\Debug\net9.0\EventSphereApp.exe
+D:\Codes\EventSphereApp\bin\Debug\net9.0\EventSphereApp.deps.json
+D:\Codes\EventSphereApp\bin\Debug\net9.0\EventSphereApp.runtimeconfig.json
+D:\Codes\EventSphereApp\bin\Debug\net9.0\EventSphereApp.dll
+D:\Codes\EventSphereApp\bin\Debug\net9.0\EventSphereApp.pdb
+D:\Codes\EventSphereApp\obj\Debug\net9.0\EventSphereApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\EventSphereApp\obj\Debug\net9.0\EventSphereApp.AssemblyInfoInputs.cache
+D:\Codes\EventSphereApp\obj\Debug\net9.0\EventSphereApp.AssemblyInfo.cs
+D:\Codes\EventSphereApp\obj\Debug\net9.0\EventSphereApp.csproj.CoreCompileInputs.cache
+D:\Codes\EventSphereApp\obj\Debug\net9.0\EventSphereApp.MvcApplicationPartsAssemblyInfo.cache
+D:\Codes\EventSphereApp\obj\Debug\net9.0\EventSphereApp.RazorAssemblyInfo.cache
+D:\Codes\EventSphereApp\obj\Debug\net9.0\EventSphereApp.RazorAssemblyInfo.cs
+D:\Codes\EventSphereApp\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Codes\EventSphereApp\obj\Debug\net9.0\scopedcss\bundle\EventSphereApp.styles.css
+D:\Codes\EventSphereApp\obj\Debug\net9.0\scopedcss\projectbundle\EventSphereApp.bundle.scp.css
+D:\Codes\EventSphereApp\obj\Debug\net9.0\compressed\srj5wq75jp-b9sayid5wm.gz
+D:\Codes\EventSphereApp\obj\Debug\net9.0\compressed\qbcf7ha1c4-61n19gt1b8.gz
+D:\Codes\EventSphereApp\obj\Debug\net9.0\compressed\a8uq3nb2x3-xtxxf3hu2r.gz
+D:\Codes\EventSphereApp\obj\Debug\net9.0\compressed\kv7bii23wf-bqjiyaj88i.gz
+D:\Codes\EventSphereApp\obj\Debug\net9.0\compressed\4a9th3xxkm-c2jlpeoesf.gz
+D:\Codes\EventSphereApp\obj\Debug\net9.0\compressed\ndgillnqo3-erw9l3u2r3.gz
+D:\Codes\EventSphereApp\obj\Debug\net9.0\compressed\b19zsrwsx8-aexeepp0ev.gz
+D:\Codes\EventSphereApp\obj\Debug\net9.0\compressed\u1rjq4qrl5-d7shbmvgxk.gz
+D:\Codes\EventSphereApp\obj\Debug\net9.0\compressed\iiktazhq4q-ausgxo2sd3.gz
+D:\Codes\EventSphereApp\obj\Debug\net9.0\compressed\5j8ezv161l-k8d9w2qqmf.gz
+D:\Codes\EventSphereApp\obj\Debug\net9.0\compressed\ayl0uifefx-cosvhxvwiu.gz
+D:\Codes\EventSphereApp\obj\Debug\net9.0\compressed\542zqow31v-ub07r2b239.gz
+D:\Codes\EventSphereApp\obj\Debug\net9.0\compressed\s6ygr03cy8-fvhpjtyr6v.gz
+D:\Codes\EventSphereApp\obj\Debug\net9.0\compressed\4isnpokzdx-b7pk76d08c.gz
+D:\Codes\EventSphereApp\obj\Debug\net9.0\compressed\grfu3r3j5p-fsbi9cje9m.gz
+D:\Codes\EventSphereApp\obj\Debug\net9.0\compressed\ic1z7ilgoo-rzd6atqjts.gz
+D:\Codes\EventSphereApp\obj\Debug\net9.0\compressed\2lyy2wrjuf-ee0r1s7dh0.gz
+D:\Codes\EventSphereApp\obj\Debug\net9.0\compressed\8r2dzs3crz-dxx9fxp4il.gz
+D:\Codes\EventSphereApp\obj\Debug\net9.0\compressed\srs8jcxh0v-jd9uben2k1.gz
+D:\Codes\EventSphereApp\obj\Debug\net9.0\compressed\cy02fzzr4d-khv3u5hwcm.gz
+D:\Codes\EventSphereApp\obj\Debug\net9.0\compressed\54h6y7en23-r4e9w2rdcm.gz
+D:\Codes\EventSphereApp\obj\Debug\net9.0\compressed\8244obrqe8-lcd1t2u6c8.gz
+D:\Codes\EventSphereApp\obj\Debug\net9.0\compressed\u997u9k2in-c2oey78nd0.gz
+D:\Codes\EventSphereApp\obj\Debug\net9.0\compressed\tkc6k1iqvn-tdbxkamptv.gz
+D:\Codes\EventSphereApp\obj\Debug\net9.0\compressed\bgz9d0e3ju-j5mq2jizvt.gz
+D:\Codes\EventSphereApp\obj\Debug\net9.0\compressed\wzsho9aaka-06098lyss8.gz
+D:\Codes\EventSphereApp\obj\Debug\net9.0\compressed\v7h29s7mqi-nvvlpmu67g.gz
+D:\Codes\EventSphereApp\obj\Debug\net9.0\compressed\lq2jbfc8b7-s35ty4nyc5.gz
+D:\Codes\EventSphereApp\obj\Debug\net9.0\compressed\y18f5hdt07-pj5nd1wqec.gz
+D:\Codes\EventSphereApp\obj\Debug\net9.0\compressed\hqmooolf1w-46ein0sx1k.gz
+D:\Codes\EventSphereApp\obj\Debug\net9.0\compressed\1v7rlkcaod-v0zj4ognzu.gz
+D:\Codes\EventSphereApp\obj\Debug\net9.0\compressed\i67kti9muf-37tfw0ft22.gz
+D:\Codes\EventSphereApp\obj\Debug\net9.0\compressed\zevhai4odo-hrwsygsryq.gz
+D:\Codes\EventSphereApp\obj\Debug\net9.0\compressed\8538bafpv0-pk9g2wxc8p.gz
+D:\Codes\EventSphereApp\obj\Debug\net9.0\compressed\0ty4wipr50-ft3s53vfgj.gz
+D:\Codes\EventSphereApp\obj\Debug\net9.0\compressed\b69plrp8u7-6cfz1n2cew.gz
+D:\Codes\EventSphereApp\obj\Debug\net9.0\compressed\7olb6u2pj6-6pdc2jztkx.gz
+D:\Codes\EventSphereApp\obj\Debug\net9.0\compressed\csi6lglf41-493y06b0oq.gz
+D:\Codes\EventSphereApp\obj\Debug\net9.0\compressed\7xyk3wtl0c-iovd86k7lj.gz
+D:\Codes\EventSphereApp\obj\Debug\net9.0\compressed\aru51sgjua-vr1egmr9el.gz
+D:\Codes\EventSphereApp\obj\Debug\net9.0\compressed\dznfygx7jg-kbrnm935zg.gz
+D:\Codes\EventSphereApp\obj\Debug\net9.0\compressed\i2v72csjkw-jj8uyg4cgr.gz
+D:\Codes\EventSphereApp\obj\Debug\net9.0\compressed\jjjb01g3l3-y7v9cxd14o.gz
+D:\Codes\EventSphereApp\obj\Debug\net9.0\compressed\ekzcus6qcf-notf2xhcfb.gz
+D:\Codes\EventSphereApp\obj\Debug\net9.0\compressed\yeouin2aw9-h1s4sie4z3.gz
+D:\Codes\EventSphereApp\obj\Debug\net9.0\compressed\75zzikwqrw-63fj8s7r0e.gz
+D:\Codes\EventSphereApp\obj\Debug\net9.0\compressed\ukhqlyyxpt-0j3bgjxly4.gz
+D:\Codes\EventSphereApp\obj\Debug\net9.0\compressed\g9d9hxiowp-47otxtyo56.gz
+D:\Codes\EventSphereApp\obj\Debug\net9.0\compressed\p1lou5qx02-4v8eqarkd7.gz
+D:\Codes\EventSphereApp\obj\Debug\net9.0\compressed\bvtd7lu6yb-356vix0kms.gz
+D:\Codes\EventSphereApp\obj\Debug\net9.0\compressed\vm8wx4f5r1-83jwlth58m.gz
+D:\Codes\EventSphereApp\obj\Debug\net9.0\compressed\1zc5s74ekp-mrlpezrjn3.gz
+D:\Codes\EventSphereApp\obj\Debug\net9.0\compressed\e6bexwpt55-lzl9nlhx6b.gz
+D:\Codes\EventSphereApp\obj\Debug\net9.0\compressed\v3hrbdps7e-ag7o75518u.gz
+D:\Codes\EventSphereApp\obj\Debug\net9.0\compressed\lkqueq9qmm-x0q3zqp4vz.gz
+D:\Codes\EventSphereApp\obj\Debug\net9.0\compressed\vdgfcqn1w4-0i3buxo5is.gz
+D:\Codes\EventSphereApp\obj\Debug\net9.0\compressed\r7irqloy7a-o1o13a6vjx.gz
+D:\Codes\EventSphereApp\obj\Debug\net9.0\compressed\1fm4bvkdf6-ttgo8qnofa.gz
+D:\Codes\EventSphereApp\obj\Debug\net9.0\compressed\6soogx1nfv-2z0ns9nrw6.gz
+D:\Codes\EventSphereApp\obj\Debug\net9.0\compressed\26o6hg8vns-muycvpuwrr.gz
+D:\Codes\EventSphereApp\obj\Debug\net9.0\compressed\iwwbr2j2e8-87fc7y1x7t.gz
+D:\Codes\EventSphereApp\obj\Debug\net9.0\compressed\xmprvtmski-mlv21k5csn.gz
+D:\Codes\EventSphereApp\obj\Debug\net9.0\staticwebassets.build.json
+D:\Codes\EventSphereApp\obj\Debug\net9.0\staticwebassets.development.json
+D:\Codes\EventSphereApp\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\Codes\EventSphereApp\obj\Debug\net9.0\staticwebassets\msbuild.EventSphereApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Codes\EventSphereApp\obj\Debug\net9.0\staticwebassets\msbuild.EventSphereApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Codes\EventSphereApp\obj\Debug\net9.0\staticwebassets\msbuild.build.EventSphereApp.props
+D:\Codes\EventSphereApp\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.EventSphereApp.props
+D:\Codes\EventSphereApp\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.EventSphereApp.props
+D:\Codes\EventSphereApp\obj\Debug\net9.0\staticwebassets.pack.json
+D:\Codes\EventSphereApp\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\Codes\EventSphereApp\obj\Debug\net9.0\EventSphereApp.dll
+D:\Codes\EventSphereApp\obj\Debug\net9.0\refint\EventSphereApp.dll
+D:\Codes\EventSphereApp\obj\Debug\net9.0\EventSphereApp.pdb
+D:\Codes\EventSphereApp\obj\Debug\net9.0\EventSphereApp.genruntimeconfig.cache
+D:\Codes\EventSphereApp\obj\Debug\net9.0\ref\EventSphereApp.dll
+D:\Codes\EventSphereApp\obj\Debug\net9.0\compressed\gsg2n31ys8-hkqnotmtjw.gz
+D:\Codes\EventSphereApp\obj\Debug\net9.0\compressed\2tl7in1n1f-hkqnotmtjw.gz
+D:\Codes\EventSphereApp\bin\Debug\net9.0\AdminBackend\package-lock.json
+D:\Codes\EventSphereApp\bin\Debug\net9.0\AdminBackend\package.json
+D:\Codes\EventSphereApp\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\Codes\EventSphereApp\obj\Debug\net9.0\EventSphereApp.csproj.AssemblyReference.cache
+D:\Codes\EventSphereApp\obj\Debug\net9.0\EventSph.07C0E2FF.Up2Date
+D:\Codes\EventSphereApp\obj\Debug\net9.0\compressed\j5sunp0qzz-sk693zxj6w.gz
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\bin\Debug\net9.0\AdminBackend\package-lock.json
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\bin\Debug\net9.0\AdminBackend\package.json
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\bin\Debug\net9.0\appsettings.Development.json
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\bin\Debug\net9.0\appsettings.json
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\bin\Debug\net9.0\EventSphereApp.staticwebassets.runtime.json
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\bin\Debug\net9.0\EventSphereApp.staticwebassets.endpoints.json
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\bin\Debug\net9.0\EventSphereApp.exe
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\bin\Debug\net9.0\EventSphereApp.deps.json
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\bin\Debug\net9.0\EventSphereApp.runtimeconfig.json
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\bin\Debug\net9.0\EventSphereApp.dll
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\bin\Debug\net9.0\EventSphereApp.pdb
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\obj\Debug\net9.0\EventSphereApp.csproj.AssemblyReference.cache
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\obj\Debug\net9.0\EventSphereApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\obj\Debug\net9.0\EventSphereApp.AssemblyInfoInputs.cache
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\obj\Debug\net9.0\EventSphereApp.AssemblyInfo.cs
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\obj\Debug\net9.0\EventSphereApp.csproj.CoreCompileInputs.cache
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\obj\Debug\net9.0\EventSphereApp.MvcApplicationPartsAssemblyInfo.cache
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\obj\Debug\net9.0\EventSphereApp.RazorAssemblyInfo.cache
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\obj\Debug\net9.0\EventSphereApp.RazorAssemblyInfo.cs
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\obj\Debug\net9.0\scopedcss\bundle\EventSphereApp.styles.css
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\obj\Debug\net9.0\scopedcss\projectbundle\EventSphereApp.bundle.scp.css
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\obj\Debug\net9.0\compressed\j5sunp0qzz-sk693zxj6w.gz
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\obj\Debug\net9.0\compressed\srj5wq75jp-b9sayid5wm.gz
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\obj\Debug\net9.0\compressed\qbcf7ha1c4-61n19gt1b8.gz
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\obj\Debug\net9.0\compressed\a8uq3nb2x3-xtxxf3hu2r.gz
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\obj\Debug\net9.0\compressed\kv7bii23wf-bqjiyaj88i.gz
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\obj\Debug\net9.0\compressed\4a9th3xxkm-c2jlpeoesf.gz
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\obj\Debug\net9.0\compressed\ndgillnqo3-erw9l3u2r3.gz
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\obj\Debug\net9.0\compressed\b19zsrwsx8-aexeepp0ev.gz
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\obj\Debug\net9.0\compressed\u1rjq4qrl5-d7shbmvgxk.gz
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\obj\Debug\net9.0\compressed\iiktazhq4q-ausgxo2sd3.gz
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\obj\Debug\net9.0\compressed\5j8ezv161l-k8d9w2qqmf.gz
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\obj\Debug\net9.0\compressed\ayl0uifefx-cosvhxvwiu.gz
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\obj\Debug\net9.0\compressed\542zqow31v-ub07r2b239.gz
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\obj\Debug\net9.0\compressed\s6ygr03cy8-fvhpjtyr6v.gz
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\obj\Debug\net9.0\compressed\4isnpokzdx-b7pk76d08c.gz
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\obj\Debug\net9.0\compressed\grfu3r3j5p-fsbi9cje9m.gz
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\obj\Debug\net9.0\compressed\ic1z7ilgoo-rzd6atqjts.gz
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\obj\Debug\net9.0\compressed\2lyy2wrjuf-ee0r1s7dh0.gz
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\obj\Debug\net9.0\compressed\8r2dzs3crz-dxx9fxp4il.gz
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\obj\Debug\net9.0\compressed\srs8jcxh0v-jd9uben2k1.gz
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\obj\Debug\net9.0\compressed\cy02fzzr4d-khv3u5hwcm.gz
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\obj\Debug\net9.0\compressed\54h6y7en23-r4e9w2rdcm.gz
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\obj\Debug\net9.0\compressed\8244obrqe8-lcd1t2u6c8.gz
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\obj\Debug\net9.0\compressed\u997u9k2in-c2oey78nd0.gz
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\obj\Debug\net9.0\compressed\tkc6k1iqvn-tdbxkamptv.gz
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\obj\Debug\net9.0\compressed\bgz9d0e3ju-j5mq2jizvt.gz
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\obj\Debug\net9.0\compressed\wzsho9aaka-06098lyss8.gz
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\obj\Debug\net9.0\compressed\v7h29s7mqi-nvvlpmu67g.gz
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\obj\Debug\net9.0\compressed\lq2jbfc8b7-s35ty4nyc5.gz
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\obj\Debug\net9.0\compressed\y18f5hdt07-pj5nd1wqec.gz
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\obj\Debug\net9.0\compressed\hqmooolf1w-46ein0sx1k.gz
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\obj\Debug\net9.0\compressed\1v7rlkcaod-v0zj4ognzu.gz
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\obj\Debug\net9.0\compressed\i67kti9muf-37tfw0ft22.gz
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\obj\Debug\net9.0\compressed\zevhai4odo-hrwsygsryq.gz
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\obj\Debug\net9.0\compressed\8538bafpv0-pk9g2wxc8p.gz
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\obj\Debug\net9.0\compressed\0ty4wipr50-ft3s53vfgj.gz
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\obj\Debug\net9.0\compressed\b69plrp8u7-6cfz1n2cew.gz
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\obj\Debug\net9.0\compressed\7olb6u2pj6-6pdc2jztkx.gz
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\obj\Debug\net9.0\compressed\csi6lglf41-493y06b0oq.gz
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\obj\Debug\net9.0\compressed\7xyk3wtl0c-iovd86k7lj.gz
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\obj\Debug\net9.0\compressed\aru51sgjua-vr1egmr9el.gz
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\obj\Debug\net9.0\compressed\dznfygx7jg-kbrnm935zg.gz
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\obj\Debug\net9.0\compressed\i2v72csjkw-jj8uyg4cgr.gz
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\obj\Debug\net9.0\compressed\jjjb01g3l3-y7v9cxd14o.gz
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\obj\Debug\net9.0\compressed\ekzcus6qcf-notf2xhcfb.gz
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\obj\Debug\net9.0\compressed\yeouin2aw9-h1s4sie4z3.gz
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\obj\Debug\net9.0\compressed\75zzikwqrw-63fj8s7r0e.gz
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\obj\Debug\net9.0\compressed\ukhqlyyxpt-0j3bgjxly4.gz
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\obj\Debug\net9.0\compressed\g9d9hxiowp-47otxtyo56.gz
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\obj\Debug\net9.0\compressed\p1lou5qx02-4v8eqarkd7.gz
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\obj\Debug\net9.0\compressed\bvtd7lu6yb-356vix0kms.gz
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\obj\Debug\net9.0\compressed\vm8wx4f5r1-83jwlth58m.gz
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\obj\Debug\net9.0\compressed\1zc5s74ekp-mrlpezrjn3.gz
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\obj\Debug\net9.0\compressed\e6bexwpt55-lzl9nlhx6b.gz
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\obj\Debug\net9.0\compressed\v3hrbdps7e-ag7o75518u.gz
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\obj\Debug\net9.0\compressed\lkqueq9qmm-x0q3zqp4vz.gz
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\obj\Debug\net9.0\compressed\vdgfcqn1w4-0i3buxo5is.gz
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\obj\Debug\net9.0\compressed\r7irqloy7a-o1o13a6vjx.gz
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\obj\Debug\net9.0\compressed\1fm4bvkdf6-ttgo8qnofa.gz
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\obj\Debug\net9.0\compressed\6soogx1nfv-2z0ns9nrw6.gz
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\obj\Debug\net9.0\compressed\26o6hg8vns-muycvpuwrr.gz
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\obj\Debug\net9.0\compressed\iwwbr2j2e8-87fc7y1x7t.gz
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\obj\Debug\net9.0\compressed\xmprvtmski-mlv21k5csn.gz
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\obj\Debug\net9.0\compressed\gsg2n31ys8-hkqnotmtjw.gz
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\obj\Debug\net9.0\compressed\2tl7in1n1f-hkqnotmtjw.gz
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\obj\Debug\net9.0\staticwebassets.build.json
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\obj\Debug\net9.0\staticwebassets.development.json
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\obj\Debug\net9.0\staticwebassets\msbuild.EventSphereApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\obj\Debug\net9.0\staticwebassets\msbuild.EventSphereApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\obj\Debug\net9.0\staticwebassets\msbuild.build.EventSphereApp.props
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.EventSphereApp.props
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.EventSphereApp.props
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\obj\Debug\net9.0\staticwebassets.pack.json
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\obj\Debug\net9.0\EventSph.07C0E2FF.Up2Date
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\obj\Debug\net9.0\EventSphereApp.dll
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\obj\Debug\net9.0\refint\EventSphereApp.dll
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\obj\Debug\net9.0\EventSphereApp.pdb
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\obj\Debug\net9.0\EventSphereApp.genruntimeconfig.cache
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\obj\Debug\net9.0\ref\EventSphereApp.dll
+D:\Codes\EventSphereApp Project\EventSphereAppAdmin\obj\Debug\net9.0\EventSphereApp.sourcelink.json

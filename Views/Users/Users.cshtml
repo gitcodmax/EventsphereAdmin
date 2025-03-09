@@ -1,0 +1,51 @@
+﻿@model List<UsersModel>
+
+@{
+    ViewData["Title"] = "Users";
+}
+
+<link rel="stylesheet" href="~/css/index.css" />
+
+<div class="main-container" style="width: 900px;">
+
+    <div class="main-container-info">
+
+        <h5>REMOVE USERS</h5>
+
+        @if (Model != null && Model.Any())
+        {
+
+            <table>
+
+                <tr>
+                    <th>Username</th>
+                    <th>Email</th>
+                    <th>Password</th>
+                    <th>Remove User</th>
+                </tr>
+
+                @foreach (var item in Model)
+                {
+
+                    <tr>
+                        <td>@item.Username</td>
+                        <td>@item.Email</td>
+                        <td>@item.Password</td>
+                        <td>
+                            <a asp-controller="Users" asp-action="DeleteUser" asp-route-username="@item.Username">
+                                <button>REMOVE</button>
+                            </a>
+                        </td>      
+                    </tr>
+
+                }
+
+            </table>
+
+        } 
+        else{
+            <p>NO USERS FOUND</p>
+        }
+
+    </div>
+</div>

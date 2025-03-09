@@ -1,0 +1,28 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<link rel="stylesheet" href="~/css/index.css" />
+
+<div class="main-container">
+
+<div class="main-container-info">
+    <p>
+            Welcome to the <strong >EventSphere Admin Dashboard</strong>—your central hub for managing users and events.
+            Here, you have full control over the platform’s operations to ensure a seamless and secure 
+        experience for all users.
+    </p>
+
+    <label>For Users Management click the following button</label>
+        <a asp-area="" style="text-decoration: none;" asp-controller="Users" asp-action="Users">
+        <button>USERS</button>
+    </a>
+
+    <label>For Events Management click the following button</label>
+        <a asp-area="" style="text-decoration: none;" asp-controller="Events" asp-action="Events">
+        <button>EVENTS</button>
+    </a>
+
+    </div>
+</div>
+

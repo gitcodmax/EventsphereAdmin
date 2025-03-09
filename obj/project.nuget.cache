@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cUqQi3gF+Kc=",
+  "success": true,
+  "projectFilePath": "D:\\Codes\\EventSphereApp Project\\EventSphereAppAdmin\\EventSphereApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

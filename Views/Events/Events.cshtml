@@ -1,0 +1,51 @@
+﻿@model List<EventsModel>
+
+@{
+    ViewData["Title"] = "Events";
+}
+
+<link rel="stylesheet" href="~/css/index.css" />
+
+<div class="main-container" style="width: 1000px;">
+
+    <div class="main-container-info">
+
+        <h5>DELETE EVENT</h5>
+
+        @if (Model != null && Model.Any())
+        {
+
+            <table>
+
+                <tr>
+                    <th>Event Name</th>
+                    <th>Event Location</th>
+                    <th>Event About</th>
+                    <th>Confirm Event</th>
+                </tr>
+
+                @foreach (var item in Model)
+                {
+
+                    <tr>
+                        <td>@item.Name</td>
+                        <td>@item.Location</td>
+                        <td>@item.About</td>
+                        <td>
+                            <a asp-controller="Events" asp-action="DeleteEvent" asp-route-eventid="@item.EventID">
+                                <button>DELETE</button>
+                            </a>
+                        </td>
+                    </tr>
+                }
+
+            </table>
+        }
+        else
+        {
+            <p>NO EVENTS!!!</p>
+        }
+
+    </div>
+
+</div>
