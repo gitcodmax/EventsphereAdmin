@@ -31,7 +31,7 @@
                         <td>@item.UserName</td>
                         <td>@item.Email</td>
                         <td>@(item.PasswordHash.Length > 10 ? item.PasswordHash.Substring(0, 10) + "..." : item.PasswordHash)</td>
-                        <td>
+                        <td class="button-row">
                             <button onclick="confirmDelete('@item.Id')">REMOVE</button>
                         </td>      
                     </tr>
