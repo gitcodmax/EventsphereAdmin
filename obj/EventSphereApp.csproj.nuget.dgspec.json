@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Codes\\EventSphereApp Project\\EventSphereAppAdmin\\EventSphereApp.csproj": {}
+    "C:\\Users\\Havi\\Source\\Repos\\EventsphereAdmin\\EventSphereApp.csproj": {}
   },
   "projects": {
-    "D:\\Codes\\EventSphereApp Project\\EventSphereAppAdmin\\EventSphereApp.csproj": {
+    "C:\\Users\\Havi\\Source\\Repos\\EventsphereAdmin\\EventSphereApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Codes\\EventSphereApp Project\\EventSphereAppAdmin\\EventSphereApp.csproj",
+        "projectUniqueName": "C:\\Users\\Havi\\Source\\Repos\\EventsphereAdmin\\EventSphereApp.csproj",
         "projectName": "EventSphereApp",
-        "projectPath": "D:\\Codes\\EventSphereApp Project\\EventSphereAppAdmin\\EventSphereApp.csproj",
-        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "D:\\Codes\\EventSphereApp Project\\EventSphereAppAdmin\\obj\\",
+        "projectPath": "C:\\Users\\Havi\\Source\\Repos\\EventsphereAdmin\\EventSphereApp.csproj",
+        "packagesPath": "C:\\Users\\Havi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Havi\\Source\\Repos\\EventsphereAdmin\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\Program Files\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Havi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -74,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.104/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
