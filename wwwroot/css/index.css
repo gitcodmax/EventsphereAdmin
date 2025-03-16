@@ -45,3 +45,37 @@ th, td {
 a{
     text-decoration: none;
 }
+
+/* Confirmation Pop up styling */
+.pop-up-icon {
+    margin-bottom: 10px;
+}
+
+.pop-up-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    margin: 0;
+}
+
+.pop-up {
+    background: #6AD3F3;
+    color: black;
+    padding: 20px;
+    width: 200px;
+    text-align: center;
+    border-radius: 8px;
+    animation: disappear 5s forwards; /* Runs for 5 seconds */
+}
+
+@keyframes disappear {
+    0% {
+        opacity: 1;
+    }
+
+    100% {
+        opacity: 0;
+        visibility: hidden;
+    }
+}

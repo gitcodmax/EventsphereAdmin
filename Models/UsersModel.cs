@@ -1,10 +1,8 @@
-﻿namespace EventSphereApp.Models
-{
-    public class UsersModel
-    {
+﻿using Microsoft.AspNetCore.Identity;
 
-        public string Username { get; set; }
-        public string Email { get; set; }
-        public string Password { get; set; }
+namespace EventSphereApp.Models
+{
+    public class UsersModel: IdentityUser
+    {
     }
 }
