@@ -79,3 +79,8 @@ a{
         visibility: hidden;
     }
 }
+
+.button-row{
+    width: 100px;
+    height: 50px;
+}

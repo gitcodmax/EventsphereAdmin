@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "s4rW78lVtqJM4PrTSA1erflKwCIHmtvg9Qnho8hEEtE=",
+  "Hash": "WeI2N1nW/C/eqdI1cAjo39TasK98Hw0WIaIBywb9i1Q=",
   "Source": "EventSphereApp",
   "BasePath": "_content/EventSphereApp",
   "Mode": "Default",
@@ -857,12 +857,12 @@
       "OriginalItemSpec": "D:\\Codes\\EventSphereApp Project\\EventSphereAppAdmin\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map"
     },
     {
-      "Identity": "D:\\Codes\\EventSphereApp Project\\EventSphereAppAdmin\\obj\\Debug\\net9.0\\compressed\\j5sunp0qzz-rq695hfqn8.gz",
+      "Identity": "D:\\Codes\\EventSphereApp Project\\EventSphereAppAdmin\\obj\\Debug\\net9.0\\compressed\\j5sunp0qzz-dwtuubru1m.gz",
       "SourceId": "EventSphereApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Codes\\EventSphereApp Project\\EventSphereAppAdmin\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/EventSphereApp",
-      "RelativePath": "css/index#[.{fingerprint=rq695hfqn8}]?.css.gz",
+      "RelativePath": "css/index#[.{fingerprint=dwtuubru1m}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -871,8 +871,8 @@
       "RelatedAsset": "D:\\Codes\\EventSphereApp Project\\EventSphereAppAdmin\\wwwroot\\css\\index.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "gc6gqy4wli",
-      "Integrity": "IOZQoMDsBVwzozvqkY0LzHPhIglPKGynUGWiYqMtmgs=",
+      "Fingerprint": "qqebm49r6y",
+      "Integrity": "YtXsaQ05rx50DgdPV4o4tHen7jfP7aEXQZ4n5dgLoyY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\Codes\\EventSphereApp Project\\EventSphereAppAdmin\\wwwroot\\css\\index.css"
@@ -1438,8 +1438,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "rq695hfqn8",
-      "Integrity": "nfxY68emK433Mv2yZX5CzLqC2Vv9GrAW+wo+4MIleyk=",
+      "Fingerprint": "dwtuubru1m",
+      "Integrity": "3Qz3AS7AVAZKCYGLe4tgggT1Djg3znJA7JQ3RYcwkSM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\index.css"
@@ -2792,12 +2792,12 @@
   "Endpoints": [
     {
       "Route": "css/index.css",
-      "AssetFile": "D:\\Codes\\EventSphereApp Project\\EventSphereAppAdmin\\obj\\Debug\\net9.0\\compressed\\j5sunp0qzz-rq695hfqn8.gz",
+      "AssetFile": "D:\\Codes\\EventSphereApp Project\\EventSphereAppAdmin\\obj\\Debug\\net9.0\\compressed\\j5sunp0qzz-dwtuubru1m.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001788908766"
+          "Quality": "0.001733102253"
         }
       ],
       "ResponseHeaders": [
@@ -2807,15 +2807,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "558"
+          "Value": "576"
         },
         {
           "Name": "ETag",
-          "Value": "\"IOZQoMDsBVwzozvqkY0LzHPhIglPKGynUGWiYqMtmgs=\""
+          "Value": "\"YtXsaQ05rx50DgdPV4o4tHen7jfP7aEXQZ4n5dgLoyY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 16 Mar 2025 11:13:56 GMT"
+          "Value": "Sun, 16 Mar 2025 20:26:47 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2835,13 +2835,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"nfxY68emK433Mv2yZX5CzLqC2Vv9GrAW+wo+4MIleyk=\""
+          "Value": "W/\"3Qz3AS7AVAZKCYGLe4tgggT1Djg3znJA7JQ3RYcwkSM=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-nfxY68emK433Mv2yZX5CzLqC2Vv9GrAW+wo+4MIleyk="
+          "Value": "sha256-3Qz3AS7AVAZKCYGLe4tgggT1Djg3znJA7JQ3RYcwkSM="
         }
       ]
     },
@@ -2856,7 +2856,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1368"
+          "Value": "1429"
         },
         {
           "Name": "Content-Type",
@@ -2864,11 +2864,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"nfxY68emK433Mv2yZX5CzLqC2Vv9GrAW+wo+4MIleyk=\""
+          "Value": "\"3Qz3AS7AVAZKCYGLe4tgggT1Djg3znJA7JQ3RYcwkSM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 16 Mar 2025 11:13:56 GMT"
+          "Value": "Sun, 16 Mar 2025 20:26:47 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2878,13 +2878,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-nfxY68emK433Mv2yZX5CzLqC2Vv9GrAW+wo+4MIleyk="
+          "Value": "sha256-3Qz3AS7AVAZKCYGLe4tgggT1Djg3znJA7JQ3RYcwkSM="
         }
       ]
     },
     {
       "Route": "css/index.css.gz",
-      "AssetFile": "D:\\Codes\\EventSphereApp Project\\EventSphereAppAdmin\\obj\\Debug\\net9.0\\compressed\\j5sunp0qzz-rq695hfqn8.gz",
+      "AssetFile": "D:\\Codes\\EventSphereApp Project\\EventSphereAppAdmin\\obj\\Debug\\net9.0\\compressed\\j5sunp0qzz-dwtuubru1m.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2893,7 +2893,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "558"
+          "Value": "576"
         },
         {
           "Name": "Content-Type",
@@ -2901,11 +2901,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"IOZQoMDsBVwzozvqkY0LzHPhIglPKGynUGWiYqMtmgs=\""
+          "Value": "\"YtXsaQ05rx50DgdPV4o4tHen7jfP7aEXQZ4n5dgLoyY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 16 Mar 2025 11:13:56 GMT"
+          "Value": "Sun, 16 Mar 2025 20:26:47 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2923,18 +2923,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-IOZQoMDsBVwzozvqkY0LzHPhIglPKGynUGWiYqMtmgs="
+          "Value": "sha256-YtXsaQ05rx50DgdPV4o4tHen7jfP7aEXQZ4n5dgLoyY="
         }
       ]
     },
     {
-      "Route": "css/index.rq695hfqn8.css",
-      "AssetFile": "D:\\Codes\\EventSphereApp Project\\EventSphereAppAdmin\\obj\\Debug\\net9.0\\compressed\\j5sunp0qzz-rq695hfqn8.gz",
+      "Route": "css/index.dwtuubru1m.css",
+      "AssetFile": "D:\\Codes\\EventSphereApp Project\\EventSphereAppAdmin\\obj\\Debug\\net9.0\\compressed\\j5sunp0qzz-dwtuubru1m.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001788908766"
+          "Quality": "0.001733102253"
         }
       ],
       "ResponseHeaders": [
@@ -2944,15 +2944,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "558"
+          "Value": "576"
         },
         {
           "Name": "ETag",
-          "Value": "\"IOZQoMDsBVwzozvqkY0LzHPhIglPKGynUGWiYqMtmgs=\""
+          "Value": "\"YtXsaQ05rx50DgdPV4o4tHen7jfP7aEXQZ4n5dgLoyY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 16 Mar 2025 11:13:56 GMT"
+          "Value": "Sun, 16 Mar 2025 20:26:47 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2972,13 +2972,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"nfxY68emK433Mv2yZX5CzLqC2Vv9GrAW+wo+4MIleyk=\""
+          "Value": "W/\"3Qz3AS7AVAZKCYGLe4tgggT1Djg3znJA7JQ3RYcwkSM=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "rq695hfqn8"
+          "Value": "dwtuubru1m"
         },
         {
           "Name": "label",
@@ -2986,12 +2986,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-nfxY68emK433Mv2yZX5CzLqC2Vv9GrAW+wo+4MIleyk="
+          "Value": "sha256-3Qz3AS7AVAZKCYGLe4tgggT1Djg3znJA7JQ3RYcwkSM="
         }
       ]
     },
     {
-      "Route": "css/index.rq695hfqn8.css",
+      "Route": "css/index.dwtuubru1m.css",
       "AssetFile": "D:\\Codes\\EventSphereApp Project\\EventSphereAppAdmin\\wwwroot\\css\\index.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3001,7 +3001,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1368"
+          "Value": "1429"
         },
         {
           "Name": "Content-Type",
@@ -3009,11 +3009,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"nfxY68emK433Mv2yZX5CzLqC2Vv9GrAW+wo+4MIleyk=\""
+          "Value": "\"3Qz3AS7AVAZKCYGLe4tgggT1Djg3znJA7JQ3RYcwkSM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 16 Mar 2025 11:13:56 GMT"
+          "Value": "Sun, 16 Mar 2025 20:26:47 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3023,7 +3023,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "rq695hfqn8"
+          "Value": "dwtuubru1m"
         },
         {
           "Name": "label",
@@ -3031,13 +3031,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-nfxY68emK433Mv2yZX5CzLqC2Vv9GrAW+wo+4MIleyk="
+          "Value": "sha256-3Qz3AS7AVAZKCYGLe4tgggT1Djg3znJA7JQ3RYcwkSM="
         }
       ]
     },
     {
-      "Route": "css/index.rq695hfqn8.css.gz",
-      "AssetFile": "D:\\Codes\\EventSphereApp Project\\EventSphereAppAdmin\\obj\\Debug\\net9.0\\compressed\\j5sunp0qzz-rq695hfqn8.gz",
+      "Route": "css/index.dwtuubru1m.css.gz",
+      "AssetFile": "D:\\Codes\\EventSphereApp Project\\EventSphereAppAdmin\\obj\\Debug\\net9.0\\compressed\\j5sunp0qzz-dwtuubru1m.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3046,7 +3046,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "558"
+          "Value": "576"
         },
         {
           "Name": "Content-Type",
@@ -3054,11 +3054,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"IOZQoMDsBVwzozvqkY0LzHPhIglPKGynUGWiYqMtmgs=\""
+          "Value": "\"YtXsaQ05rx50DgdPV4o4tHen7jfP7aEXQZ4n5dgLoyY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 16 Mar 2025 11:13:56 GMT"
+          "Value": "Sun, 16 Mar 2025 20:26:47 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3076,7 +3076,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "rq695hfqn8"
+          "Value": "dwtuubru1m"
         },
         {
           "Name": "label",
@@ -3084,7 +3084,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-IOZQoMDsBVwzozvqkY0LzHPhIglPKGynUGWiYqMtmgs="
+          "Value": "sha256-YtXsaQ05rx50DgdPV4o4tHen7jfP7aEXQZ4n5dgLoyY="
         }
       ]
     },
@@ -3411,7 +3411,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 16 Mar 2025 11:19:00 GMT"
+          "Value": "Sun, 16 Mar 2025 20:14:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3464,7 +3464,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 16 Mar 2025 11:19:00 GMT"
+          "Value": "Sun, 16 Mar 2025 20:14:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3501,7 +3501,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 16 Mar 2025 11:19:00 GMT"
+          "Value": "Sun, 16 Mar 2025 20:14:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3548,7 +3548,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 16 Mar 2025 11:19:00 GMT"
+          "Value": "Sun, 16 Mar 2025 20:14:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3609,7 +3609,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 16 Mar 2025 11:19:00 GMT"
+          "Value": "Sun, 16 Mar 2025 20:14:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3654,7 +3654,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 16 Mar 2025 11:19:00 GMT"
+          "Value": "Sun, 16 Mar 2025 20:14:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3709,7 +3709,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 16 Mar 2025 11:19:00 GMT"
+          "Value": "Sun, 16 Mar 2025 20:14:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3770,7 +3770,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 16 Mar 2025 11:19:00 GMT"
+          "Value": "Sun, 16 Mar 2025 20:14:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3815,7 +3815,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 16 Mar 2025 11:19:00 GMT"
+          "Value": "Sun, 16 Mar 2025 20:14:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3870,7 +3870,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 16 Mar 2025 11:19:00 GMT"
+          "Value": "Sun, 16 Mar 2025 20:14:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3923,7 +3923,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 16 Mar 2025 11:19:00 GMT"
+          "Value": "Sun, 16 Mar 2025 20:14:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3960,7 +3960,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 16 Mar 2025 11:19:00 GMT"
+          "Value": "Sun, 16 Mar 2025 20:14:18 GMT"
         },
         {
           "Name": "Cache-Control",
